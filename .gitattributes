@@ -1,0 +1,6 @@
+*.h linguist-language=Java
+*.cpp linguist-language=Java
+
+generated/*.d linguist-generated=true
+
+*.t linguist-detectable=false
